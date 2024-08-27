@@ -19,7 +19,7 @@ No specific prerequisites. This project works in any modern browser.
 
 1. Clone the GitHub repository to your local machine:
    ```bash
-   git clone https://github.com/TristanDeschamp/repo-name.git
+   git clone https://github.com/TristanDeschamp/QRCodeTemplate.git
 
 ## Technology used
 Instead of using a whole framework for this, i went with vanilla **HTML** and **CSS**
